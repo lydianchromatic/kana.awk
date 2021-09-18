@@ -1,0 +1,3 @@
+# kana.awk
+
+convert romaji into japanese kana via POSIX awk.
