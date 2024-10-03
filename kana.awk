@@ -1,7 +1,3 @@
-#
-# convert romaji into hiragana and katakana.
-#
-
 BEGIN {
   # slurp the kana into associative arrays
   while (getline < ARGV[1] > 0) {
